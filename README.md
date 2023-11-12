@@ -1,28 +1,11 @@
 
-# Welcome to Codewell! 👋
+# Bem-vindos! 👋
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+Projeto em HTML e CSS que consiste em uma página de login e o material foi obtido pelo Codewell.
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
+### Desafio
 
-### I've completed the challenge, now what?
-
-We recommend using one of these two websites to deploy your projects
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
-
-
-### Submit your solution to Codewell
-
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
-
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+O desafio consistiu em explorar a utilização do HTML e do CSS, mas, principalmente, procurou desafiar a utilização dos flexbox e a fim de treinar e demonstrar a capacidade do desenvolvedor. 
 
 ### Fonts Used
 
